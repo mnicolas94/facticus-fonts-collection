@@ -1,9 +1,7 @@
 {
-    "name": "com.{{COMPANY}}.{{REPOSITORY_NAME}}.Editor",
+    "name": "com.facticus.fonts-collection",
     "references": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
